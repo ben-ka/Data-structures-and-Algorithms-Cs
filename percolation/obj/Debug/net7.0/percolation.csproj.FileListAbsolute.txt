@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\percolation\percolation\bin\Debug\net7.0\percolation.exe
+C:\Users\Administrator\source\repos\percolation\percolation\bin\Debug\net7.0\percolation.deps.json
+C:\Users\Administrator\source\repos\percolation\percolation\bin\Debug\net7.0\percolation.runtimeconfig.json
+C:\Users\Administrator\source\repos\percolation\percolation\bin\Debug\net7.0\percolation.dll
+C:\Users\Administrator\source\repos\percolation\percolation\bin\Debug\net7.0\percolation.pdb
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.dll
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\refint\percolation.dll
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.pdb
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\percolation.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\percolation\percolation\obj\Debug\net7.0\ref\percolation.dll
